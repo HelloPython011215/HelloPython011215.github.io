@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Hugo Theme MemE</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2021-06-07T01:46:40&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://example.com/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
+        <entry>
+            <title type="text">關於Covid-19</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
+            <id>https://example.com/posts/hello-world/</id>
+            <updated>2021-06-07T01:44:23&#43;08:00</updated>
+            <published>2021-06-06T16:00:00&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;h1 id=&#34;0601防疫現況&#34;&gt;0601防疫現況&lt;/h1&gt;
+&lt;p&gt;中央疫情指揮中心今(1日)公布新增確診262例本土個案，另有65例校正回歸，新增13人死亡。其中台中市新增10例確診個案。今新增的個案中，北屯區家庭群聚感染擴大囊括5名，家庭群聚擴大嚴重。&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;h1 id=&#34;0601防疫現況&#34;&gt;0601防疫現況&lt;/h1&gt;
+&lt;p&gt;中央疫情指揮中心今(1日)公布新增確診262例本土個案，另有65例校正回歸，新增13人死亡。其中台中市新增10例確診個案。今新增的個案中，北屯區家庭群聚感染擴大囊括5名，家庭群聚擴大嚴重。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://attach.setn.com/newsimages/2021/06/01/3176814-PH.jpg&#34; alt=&#34;疫情圖表1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;台中市政府公布，北屯家庭群聚案今日新增5例確診，包含【案8751】、【案8752】、【案8753】、【案8754】、【案8757】，至今累計17例。其中，，【案8751】與【案8752】為北屯區父子，家住案7527（北屯區72歲女性）附近&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://attach.setn.com/newsimages/2021/06/01/3176779-PH.jpg&#34; alt=&#34;疫情圖表2&#34;&gt;&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/blog/" term="Blog" label="Blog" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/hugo/" term="Hugo" label="Hugo" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
